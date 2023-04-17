@@ -1,5 +1,8 @@
 ## chatgpt站点分享
 
+**这儿为你准备了众多免费好用的ChatGPT镜像站点**
+
+**分享站点**、**站点失效**、**标注错误**，请[🌺点此🌺](https://github.com/webpon/freegpt/issues)
 **标注说明**
 
 | 🔖    | 📓                        |

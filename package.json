@@ -1,6 +1,6 @@
 {
-  "name": "free-publish",
-  "version": "1.0.0",
+  "name": "freegpt",
+  "version": "1.0.4",
   "description": "",
   "main": "index.js",
   "scripts": {

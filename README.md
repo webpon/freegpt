@@ -35,9 +35,9 @@
 | [2dog.io](https://2dog.io)                                   |                             | 😄    |
 | [Nbchat.github.io](https://nbchat.github.io)                 |                             | 🛫😄⭐  |
 
-微信公众号：
+<!-- 微信公众号：
 
-![image.png](https://23.224.49.110/static/image/gptgongzhonghao.jpg)
+![image.png](https://23.224.49.110/static/image/gptgongzhonghao.jpg) -->
 
 AIGC微信交流群
 

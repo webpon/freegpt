@@ -4,6 +4,9 @@
 
 **分享站点**、**站点失效**、**标注错误**，请[🌺点此🌺](https://github.com/webpon/freegpt/issues)
 **标注说明**
+领支付宝大红包
+
+![image.png](https://23.224.49.110/static/image/gongzhonghao.jpg)
 
 | 🔖    | 📓                        |
 | ---- | ------------------------ |
@@ -37,6 +40,10 @@
 | Chaosu.vip                                |                  | 貌似被墙                     |🛫😄⭐ 
 | [Nbchat.github.io](https://nbchat.github.io)                 |  被墙                        | 🛫😄⭐  |
 | https://nbfree.pages.dev/                                    | 被墙                         | 🛫😄⭐   |
+
+领支付宝大红包
+
+![image.png](https://23.224.49.110/static/image/gongzhonghao.jpg)
 
 AIGC微信交流群
 

@@ -19,16 +19,17 @@
 | 站点                                                         | 备注                         | 标识 |
 | ------------------------------------------------------------ | --------------------------- | ---- |
 | https://home.52chye.cn/                                      | 推荐，速度快，无限制        | 😄⭐   |
+| [Chat23.yqcloud.top](https://Chat23.yqcloud.top)             | 速度快，无限制              | 😄⭐   |
 | https://gpt.xcbl.cc                                          | 推荐，速度快，无限制        | 😄⭐   |
 | https://chaosu.xyz                                           | 速度快，无限制              | 😄⭐   |
+| https://chat.zhulei.xyz                                      | 速度快，无限制              | 😄⭐   |
 | https://tongtian.pro/                                        | 速度快，无限制              | 😄⭐   |
-| http://msai.fun/                                             | 速度快，无限制              | 😄⭐   |
+| https://free.anzz.top                                        | 速度快，无限制              | 😄⭐   |
 | http://easyai.one/chat                                       | 速度快，无限制              | 😄⭐   |
 | http://175.178.88.119/                                       | 速度快，无限制              | 😄⭐   |
 | [Chat23.yqcloud.top](https://Chat23.yqcloud.top)             | 速度快，无限制              | 😄⭐   |
 | https://b.mydog.buzz/                                        | 速度快，无限制              | 😄⭐   |
 | [Chat.aidutu.cn](https://Chat.aidutu.cn)                     | 速度快，无限制              | 😄⭐   |
-| [Chat2.zhuleixx.top](https://Chat2.zhuleixx.top)             | 速度快，无限制，移动端有bug | 🆕 😄⭐ |
 | [Chat.wobcw.com](https://Chat.wobcw.com)                     | 有条件使用                  | 😄⭐   |
 | [Openmao.panchuang.net](http://cc.ai55.cc/url/?id=VFZFRUltWHM4eFdoMjdEdlZHS0tteFNwZlFJblRycE9Vb0JWVm41ditZMD0=) |                             | 🆕 😄⭐ |
 | [B.mydog.buzz](https://B.mydog.buzz)                         |                             | 🆕 😄⭐ |

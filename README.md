@@ -4,14 +4,11 @@
 
 **分享站点**、**站点失效**、**标注错误**，请[🌺点此🌺](https://github.com/webpon/freegpt/issues)
 **标注说明**
-**购买chatgpt账号**
 
-包含120刀、2000刀额度chatgpt账号，
+**购买chatgpt账号**
+包含120刀、2000刀额度chatgpt各种账号，
 自助购买链接: https://dwz.cn/rFWOgDSx
 
-领支付宝大红包
-
-![image.png](https://23.224.49.110/static/image/gongzhonghao.jpg)
 
 | 🔖    | 📓                        |
 | ---- | ------------------------ |

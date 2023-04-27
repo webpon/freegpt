@@ -43,8 +43,8 @@ https://www.rainyun.com/MzQ5MTc=_
 
 领支付宝大红包
 
-<img src="http://xcdn.52chye.cn/static/image/hongbao.jpg" alt="image.png" style="zoom:80%;" />
+<img src="https://xcdn.52chye.cn/static/image/hongbao.jpg" alt="image.png" style="zoom:80%;" />
 
 AIGC微信交流群
 
-<img src="http://xcdn.52chye.cn/static/image/aigc.jpg" alt="image.png" style="zoom:50%;" />
+<img src="https://xcdn.52chye.cn/static/image/aigc.jpg" alt="image.png" style="zoom:50%;" />

@@ -3,21 +3,16 @@
 **这儿为你准备了众多免费好用的ChatGPT镜像站点**
 
 **分享站点**、**站点失效**、**标注错误**，请[🌺点此🌺](https://github.com/webpon/freegpt/issues)
-**标注说明**
 
 **购买chatgpt账号**
-
 包含120刀、2000刀额度chatgpt各种账号，
-
 自助购买链接: https://dwz.cn/rFWOgDSx
 
 **便宜服务器推荐**
-
 最近发现了一个可以白嫖域名和证书的网站
-
 https://www.rainyun.com/MzQ5MTc=_
 
-
+**标注说明**
 | 🔖    | 📓                        |
 | ---- | ------------------------ |
 | ⭐    | 使用稳定，推荐           |
@@ -48,8 +43,8 @@ https://www.rainyun.com/MzQ5MTc=_
 
 领支付宝大红包
 
-![image.png](https://23.224.49.110/static/image/hongbao.jpg)
+<img src="http://xcdn.52chye.cn/static/image/hongbao.jpg" alt="image.png" style="zoom:80%;" />
 
 AIGC微信交流群
 
-![image.png](https://23.224.49.110/static/image/aigc.jpg)
+<img src="http://xcdn.52chye.cn/static/image/aigc.jpg" alt="image.png" style="zoom:50%;" />

@@ -10,6 +10,10 @@
 包含120刀、2000刀额度chatgpt各种账号，
 自助购买链接: https://dwz.cn/rFWOgDSx
 
+**便宜服务器推荐**
+最近发现了一个可以白嫖域名和证书的网站
+https://www.rainyun.com/MzQ5MTc=_
+
 
 | 🔖    | 📓                        |
 | ---- | ------------------------ |
@@ -26,7 +30,10 @@
 | ------------------------------------------------------------ | --------------------------- | ---- |
 | https://home.52chye.cn/                                      | 推荐，速度快，无限制        | 😄⭐   |
 | https://home.xjai.cc/                                        | 推荐，速度快，无限制        | 😄⭐   |
-| http://f3.52chye.cn                                                 | 速度快，无限制              | 😄⭐   |
+| http://f3.52chye.cn                                          | 速度快，无限制              | 😄⭐   |
+| http://easyai.ink/                                           | 速度快，无限制              | 😄⭐   |
+| https://chat.0.bnu120.space/                                 | 速度快，无限制              | 😄⭐   |
+| https://chat2.aitianhu.top                                   | 速度快，无限制              | 😄⭐   |
 | https://chatgpt.hz-it-dev.com/                               | 速度快，无限制              | 😄⭐   |
 | https://gpt.gpt0.icu/                                        | 速度快，无限制              | 😄⭐   |
 | [Chat24.yqcloud.top](https://Chat24.yqcloud.top)             | 速度快，无限制              | 😄⭐   |

@@ -40,7 +40,7 @@ https://www.rainyun.com/MzQ5MTc=_
 | https://chatgpt.hz-it-dev.com/                               | 速度快，无限制              | 😄⭐   |
 | https://gpt.gpt0.icu/                                        | 速度快，无限制              | 😄⭐   |
 | [Chat24.yqcloud.top](https://Chat24.yqcloud.top)             | 速度快，无限制              | 😄⭐   |
-| http://www.vppp.cn                                           | 速度快，无限制              | 😄⭐   |
+| http://8.217.126.34                                          | 模仿官网，速度快，无限制     | 😄⭐   |
 | https://tongtian.pro/                                        | 速度快，无限制              | 😄⭐   |
 | [Chat.aidutu.cn](https://Chat.aidutu.cn)                     | 速度快，无限制              | 😄⭐   |
 | [Chat.wobcw.com](https://Chat.wobcw.com)                     | 有条件使用                  | 😄⭐   |

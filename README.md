@@ -28,18 +28,18 @@ https://www.rainyun.com/MzQ5MTc=_
 | ------------------------------------------------------------ | --------------------------- | ---- |
 | https://home.52chye.cn/                                      | 推荐，速度快，无限制        | 😄⭐   |
 | https://home.xjai.cc/                                        | 推荐，速度快，无限制        | 😄⭐   |
-| http://f3.52chye.cn                                          | 速度快，无限制              | 😄⭐   |
-| http://easyai.ink/                                           | 速度快，无限制              | 😄⭐   |
+| http://n1.xjai.cc                                          | 速度快，无限制              | 😄⭐   |
+| https://chat.jinshutuan.com/                                          | 速度快，无限制              | 😄⭐   |
+| http://chat1.cutim.top                                           | 速度快，无限制              | 😄⭐   |
 | https://chat.0.bnu120.space/                                 | 速度快，无限制              | 😄⭐   |
-| https://chat2.aitianhu.top                                   | 速度快，无限制              | 😄⭐   |
+| https://chat3.aitianhu.top                                   | 速度快，无限制              | 😄⭐   |
 | https://chatgpt.hz-it-dev.com/                               | 速度快，无限制              | 😄⭐   |
-| https://gpt.gpt0.icu/                                        | 速度快，无限制              | 😄⭐   |
 | [Chat24.yqcloud.top](https://Chat24.yqcloud.top)             | 速度快，无限制              | 😄⭐   |
 | http://8.217.126.34                                          | 模仿官网，速度快，无限制     | 😄⭐   |
 | https://tongtian.pro/                                        | 速度快，无限制              | 😄⭐   |
 | [Chat.aidutu.cn](https://Chat.aidutu.cn)                     | 速度快，无限制              | 😄⭐   |
-| [Chat.wobcw.com](https://Chat.wobcw.com)                     | 有条件使用                  | 😄⭐   |
-| [2dog.io](https://2dog.io)                                   |                             | 😄    |
+| [Chat.wobcw.com](https://Chat.wobcw.com)                     |                | 😄⭐   |
+| https://1chat.cc/                                             |                             | 😄    |
 
 领支付宝大红包
 

@@ -1,6 +1,6 @@
 {
   "name": "freegpt",
-  "version": "1.3.4",
+  "version": "1.3.5",
   "description": "免费人工智能网站分享",
   "main": "index.js",
   "scripts": {
